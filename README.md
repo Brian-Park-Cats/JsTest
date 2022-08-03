@@ -1,2 +1,5 @@
 # JsTest
-Beep boop
+---
+This is my first repository, or Repo for short
+
+## Bye
